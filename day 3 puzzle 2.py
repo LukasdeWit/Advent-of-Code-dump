@@ -18,7 +18,7 @@ steps = [(1, 1), (3, 1), (5, 1), (7, 1), (1, 2)]
 
 mult = 1
 for tup in steps:
-    x_step, y_step = tup[0], tup[1]
+    x_step, y_step = tup
     trees = 0
     x_curr = 0
     y_curr = 0
@@ -32,4 +32,4 @@ for tup in steps:
     mult *= trees
     print(trees)
 
-print(mult)
+print(mult) # 736527114
