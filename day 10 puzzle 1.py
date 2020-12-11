@@ -5,6 +5,8 @@ for line in open("day 10 puzzle 1 data.txt"):
 
 data.append(0)
 data.sort()
+for p in data:
+    print(p)
 data.append(data[-1] + 3)
 
 count_ones = 0
