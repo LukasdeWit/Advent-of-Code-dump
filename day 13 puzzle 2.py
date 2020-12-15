@@ -31,7 +31,7 @@ print(t)
 # tweede hint: https://docplayer.nl/6329174-De-chinese-reststelling.html
 # buses is nu een stelsel van modulos die we oplossen met de chinese reststelling
 # de eerste stap: maak alle getallen copriem, is niet nodig want alle getallen
-# zijn priem dus per definitie ook copriem
+# zijn priem dus per definitie ook copriem (want alle getallen zijn ongelijk haha pak aan myrte dit is correct)
 
 # bereken alle getallen met elkaar vermenigvuldigt om te weten wat de stapgrootte
 # voor repetitie is
